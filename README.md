@@ -1,2 +1,2 @@
 # bash-30days-challenge
-bash scripts - study
+Repository of script written during bash study challange.
